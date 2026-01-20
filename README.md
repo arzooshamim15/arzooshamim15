@@ -1,6 +1,5 @@
-  
- <hr></hr>
-<p align="center">
+
+  <p align="center">
   <samp>
     Hi, I'm Arzoo Shamim! 👋 <br>
     🔥 Mern Stack Developer grinding hard to make something cool  <br>
