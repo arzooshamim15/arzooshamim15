@@ -1,16 +1,11 @@
-## Hi there 👋
+  
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Arzoo Shamim! 👋 <br>
+    🔥 Mern Stack Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript, NextJs ... <br>
+    :email:	arzooshamimdev@gmail.com <br>
 
-<!--
-**arzooshamim15/arzooshamim15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </samp>
+</p>
